@@ -1,0 +1,27 @@
+{
+  "id": "a8ca8e87-9740-4df1-b913-3da2f7e4b6de",
+  "name": "Admin_Tool",
+  "publisher": "HENRY_THL",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Admin_Tool.com/help/",
+  "showMyCode": true,
+  "target": "OnPrem",
+  "runtime": "7.0"
+}

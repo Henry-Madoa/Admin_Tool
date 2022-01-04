@@ -1,0 +1,31 @@
+{
+    "folders": [
+        {
+            "path": "C:\\Users\\wbrakowski8911\\Documents\\AL\\Admin-Tool"
+        }
+    ],
+    "settings": {
+        "al.assemblyProbingPaths": [
+            "./.netpackages"
+        ]
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Your own server",
+                "request": "launch",
+                "type": "al",
+                "environmentType": "OnPrem",
+                "server": "http://192.168.0.58",
+                "serverInstance": "BC160",
+                "authentication": "UserPassword",
+                "breakOnError": true,
+                "launchBrowser": true,
+                "enableLongRunningSqlStatements": true,
+                "enableSqlInformationDebugger": true,
+                "tenant": "default"
+            }
+        ]
+    }
+}
